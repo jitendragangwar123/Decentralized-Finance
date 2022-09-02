@@ -1,9 +1,9 @@
 # DEFI-Programming-DAI
 ```shell
-truffle init
-npm init -y
+truffle init 
+npm init -y //intialize the config file
 npm install @openzeppelin/contracts
-npm i
+npm i //install npm dependencies
 truffle compile
 truffle migrate --reset
 ```
